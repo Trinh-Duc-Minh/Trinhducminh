@@ -1,0 +1,41 @@
+h1{
+    color: green;
+}
+p{
+    color: mediumblue;font-size: small;
+}
+h2{
+    color: red;size: 30px;
+}
+table{
+    color: tomato; size: 90px;
+}
+#first-heading{
+    color: yellowgreen;font-size: 29px;
+}
+
+.second-heading{
+    color: teal;font-size: 70px;
+}
+.box{
+    width: 50px;
+    height: 50px;
+
+}
+.box1 {
+    background-color: red;
+    padding: 10px;
+    border: 10px solid black;
+}
+.box2{
+    background-color: green;
+    margin-top: 20px;
+    margin-left: 50%;
+}
+.box3{
+    background-color: blue;
+    border: 20px solid #333;
+}
+#Loimodau{
+    font-size: 20px;
+}
