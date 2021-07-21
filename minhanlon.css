@@ -1,3 +1,10 @@
+body{
+    background-image: url(https://images8.alphacoders.com/961/961129.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+} 
+
+ 
 h1{
     color: green;
 }
@@ -15,7 +22,7 @@ table{
 }
 
 .second-heading{
-    color: teal;font-size: 70px;
+    color: teal;font-size: 20px;
 }
 .box{
     width: 50px;
@@ -24,18 +31,22 @@ table{
 }
 .box1 {
     background-color: red;
-    padding: 10px;
     border: 10px solid black;
 }
 .box2{
     background-color: green;
     margin-top: 20px;
-    margin-left: 50%;
+    margin-left: 50px;
+    margin-bottom: 5px;
 }
 .box3{
     background-color: blue;
-    border: 20px solid #333;
+    border: 5px solid #333;
+    padding: 50px;
+    box-sizing: border-box;
 }
 #Loimodau{
     font-size: 20px;
+    padding: 5px;
+    box-sizing: border-box;
 }
